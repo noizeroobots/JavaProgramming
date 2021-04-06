@@ -4,8 +4,6 @@ import IntegerDemoInteractiveWithName.Part2.AirlineDialog;
 import IntegerDemoInteractiveWithName.Part2.SalaryDialog;
 
 public class Main {
-
-    @SuppressWarnings("checkstyle:RegexpSingleline")
     public static void main(final String[] args) {
 
 //        HelloNameDialog helloNameDialog = new HelloNameDialog();
@@ -18,7 +16,8 @@ public class Main {
 даже если никаких объектов класса не существует.
  */
 //        SalaryDialog.salaryDialog();
-        AirlineDialog.airlineDialog();
+//        AirlineDialog.airlineDialog();
+        AirlineDialog.arilineDialogTwoButtons();
 
     }
 }
