@@ -19,7 +19,7 @@ public class Main {
 //        SalaryDialog.salaryDialog();
 //      AirlineDialog.airlineDialog();
 //        AirlineDialog.arilineDialogTwoButtons();
-        ImprecisionDemo.imprecisionDemo();
+        ImprecisionDemo.imprecisionDemo(); //Figure 2-36
 
     }
 }
